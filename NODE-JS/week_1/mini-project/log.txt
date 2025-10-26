@@ -1,0 +1,439 @@
+It's working!
+
+    Time: 22/10/2025 11:30:09
+    Free Memory: 766.50 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.58%
+    Uptime: 2558.48 min
+
+
+    Time: 22/10/2025 11:30:14
+    Free Memory: 767.46 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.60%
+    Uptime: 2558.56 min
+
+
+    Time: 22/10/2025 11:30:19
+    Free Memory: 780.75 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.76%
+    Uptime: 2558.65 min
+
+
+    Time: 22/10/2025 11:30:24
+    Free Memory: 770.50 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.63%
+    Uptime: 2558.73 min
+
+
+    Time: 22/10/2025 11:30:29
+    Free Memory: 719.77 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.00%
+    Uptime: 2558.81 min
+
+
+    Time: 22/10/2025 11:30:34
+    Free Memory: 742.80 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.29%
+    Uptime: 2558.90 min
+
+
+    Time: 22/10/2025 11:30:39
+    Free Memory: 804.09 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 10.05%
+    Uptime: 2558.98 min
+
+
+    Time: 22/10/2025 11:30:44
+    Free Memory: 716.16 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.95%
+    Uptime: 2559.06 min
+
+
+    Time: 22/10/2025 11:30:49
+    Free Memory: 724.90 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.06%
+    Uptime: 2559.15 min
+
+
+    Time: 22/10/2025 11:30:54
+    Free Memory: 701.04 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.76%
+    Uptime: 2559.23 min
+
+
+    Time: 22/10/2025 11:30:59
+    Free Memory: 677.76 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.47%
+    Uptime: 2559.32 min
+
+
+    Time: 22/10/2025 11:31:04
+    Free Memory: 656.63 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.21%
+    Uptime: 2559.40 min
+
+
+    Time: 22/10/2025 11:31:09
+    Free Memory: 737.47 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.22%
+    Uptime: 2559.48 min
+
+
+    Time: 22/10/2025 11:31:14
+    Free Memory: 714.12 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.93%
+    Uptime: 2559.57 min
+
+
+    Time: 22/10/2025 11:31:19
+    Free Memory: 703.77 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.80%
+    Uptime: 2559.65 min
+
+
+    Time: 22/10/2025 11:31:24
+    Free Memory: 726.98 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.09%
+    Uptime: 2559.73 min
+
+
+    Time: 22/10/2025 11:31:29
+    Free Memory: 825.33 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 10.32%
+    Uptime: 2559.82 min
+
+
+    Time: 22/10/2025 11:31:34
+    Free Memory: 736.06 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.20%
+    Uptime: 2559.90 min
+
+
+    Time: 22/10/2025 11:31:39
+    Free Memory: 769.84 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.63%
+    Uptime: 2559.98 min
+
+
+    Time: 22/10/2025 11:31:44
+    Free Memory: 717.01 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.96%
+    Uptime: 2560.07 min
+
+
+    Time: 22/10/2025 11:31:49
+    Free Memory: 699.48 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.75%
+    Uptime: 2560.15 min
+
+
+    Time: 22/10/2025 11:31:54
+    Free Memory: 682.31 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 8.53%
+    Uptime: 2560.23 min
+
+
+    Time: 22/10/2025 11:31:59
+    Free Memory: 765.15 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.57%
+    Uptime: 2560.32 min
+
+
+    Time: 22/10/2025 11:32:04
+    Free Memory: 728.53 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.11%
+    Uptime: 2560.40 min
+
+
+    Time: 22/10/2025 11:32:09
+    Free Memory: 756.50 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 9.46%
+    Uptime: 2560.48 min
+
+
+    Time: 22/10/2025 11:32:14
+    Free Memory: 950.44 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.88%
+    Uptime: 2560.57 min
+
+
+    Time: 22/10/2025 11:32:19
+    Free Memory: 976.55 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 12.21%
+    Uptime: 2560.65 min
+
+
+    Time: 22/10/2025 11:32:24
+    Free Memory: 947.14 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.84%
+    Uptime: 2560.73 min
+
+
+    Time: 22/10/2025 11:32:29
+    Free Memory: 964.31 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 12.06%
+    Uptime: 2560.82 min
+
+
+    Time: 22/10/2025 11:32:34
+    Free Memory: 943.80 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.80%
+    Uptime: 2560.90 min
+
+
+    Time: 22/10/2025 11:32:39
+    Free Memory: 946.99 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.84%
+    Uptime: 2560.98 min
+
+
+    Time: 22/10/2025 11:32:44
+    Free Memory: 935.84 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.70%
+    Uptime: 2561.07 min
+
+
+    Time: 22/10/2025 11:32:49
+    Free Memory: 924.93 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.56%
+    Uptime: 2561.15 min
+
+
+    Time: 22/10/2025 11:32:54
+    Free Memory: 907.45 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.35%
+    Uptime: 2561.23 min
+
+
+    Time: 22/10/2025 11:32:59
+    Free Memory: 965.07 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 12.07%
+    Uptime: 2561.32 min
+
+
+    Time: 22/10/2025 11:33:04
+    Free Memory: 969.93 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 12.13%
+    Uptime: 2561.40 min
+
+
+    Time: 22/10/2025 11:33:09
+    Free Memory: 954.73 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.94%
+    Uptime: 2561.49 min
+
+
+    Time: 22/10/2025 11:33:14
+    Free Memory: 929.71 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 11.62%
+    Uptime: 2561.57 min
+
+It's working!
+
+    Time: 22/10/2025 15:00:44
+    Free Memory: 1266.79 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 15.84%
+    Uptime: 2769.06 min
+
+
+    Time: 22/10/2025 15:00:49
+    Free Memory: 1235.02 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 15.44%
+    Uptime: 2769.14 min
+
+
+    Time: 22/10/2025 15:00:54
+    Free Memory: 1204.68 MB
+    Total Memory: 7998.28 MB
+    Free Memory %: 15.06%
+    Uptime: 2769.22 min
+
+[15:05:03] 
+
+ Time: 22/10/2025 15:05:03
+ Free Memory: 1249.05 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 15.62%
+ Uptime: 2773.37 min
+
+
+[15:05:03]  Alerte: Mémoire faible (15.62%)
+[15:05:08] 
+
+ Time: 22/10/2025 15:05:08
+ Free Memory: 1283.04 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 16.04%
+ Uptime: 2773.46 min
+
+
+[15:05:08]  Alerte: Mémoire faible (16.04%)
+[15:05:13] 
+
+ Time: 22/10/2025 15:05:13
+ Free Memory: 1269.82 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 15.88%
+ Uptime: 2773.54 min
+
+
+[15:05:13]  Alerte: Mémoire faible (15.88%)
+[15:05:18] 
+
+ Time: 22/10/2025 15:05:18
+ Free Memory: 1281.92 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 16.03%
+ Uptime: 2773.63 min
+
+
+[15:05:18]  Alerte: Mémoire faible (16.03%)
+[15:05:23] 
+
+ Time: 22/10/2025 15:05:23
+ Free Memory: 1296.76 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 16.21%
+ Uptime: 2773.71 min
+
+
+[15:05:23]  Alerte: Mémoire faible (16.21%)
+[15:05:28] 
+
+ Time: 22/10/2025 15:05:28
+ Free Memory: 1293.96 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 16.18%
+ Uptime: 2773.79 min
+
+
+[15:05:28]  Alerte: Mémoire faible (16.18%)
+[15:08:50] 
+
+ Time: 22/10/2025 15:08:50
+ Free Memory: 1181.70 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 14.77%
+ Uptime: 2777.16 min
+
+
+[15:08:50]  Alerte: Mémoire faible (14.77%)
+[15:08:55] 
+
+ Time: 22/10/2025 15:08:55
+ Free Memory: 1198.62 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 14.99%
+ Uptime: 2777.25 min
+
+
+[15:08:55]  Alerte: Mémoire faible (14.99%)
+[15:09:00] 
+
+ Time: 22/10/2025 15:09:00
+ Free Memory: 1108.66 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 13.86%
+ Uptime: 2777.33 min
+
+
+[15:09:00]  Alerte: Mémoire faible (13.86%)
+[15:09:05] 
+
+ Time: 22/10/2025 15:09:05
+ Free Memory: 1128.27 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 14.11%
+ Uptime: 2777.41 min
+
+
+[15:09:05]  Alerte: Mémoire faible (14.11%)
+[15:09:10] 
+
+ Time: 22/10/2025 15:09:10
+ Free Memory: 1247.55 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 15.60%
+ Uptime: 2777.50 min
+
+
+[15:09:10]  Alerte: Mémoire faible (15.60%)
+[15:09:15] 
+
+ Time: 22/10/2025 15:09:15
+ Free Memory: 1226.19 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 15.33%
+ Uptime: 2777.58 min
+
+
+[15:09:15]  Alerte: Mémoire faible (15.33%)
+[15:09:20] 
+
+ Time: 22/10/2025 15:09:20
+ Free Memory: 1067.58 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 13.35%
+ Uptime: 2777.67 min
+
+
+[15:09:20]  Alerte: Mémoire faible (13.35%)
+[15:09:25] 
+
+ Time: 22/10/2025 15:09:25
+ Free Memory: 1041.25 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 13.02%
+ Uptime: 2777.75 min
+
+
+[15:09:25]  Alerte: Mémoire faible (13.02%)
+[15:09:30] 
+
+ Time: 22/10/2025 15:09:30
+ Free Memory: 992.09 MB
+ Total Memory: 7998.28 MB
+ Free Memory %: 12.40%
+ Uptime: 2777.83 min
+
+
+[15:09:30]  Alerte: Mémoire faible (12.40%)

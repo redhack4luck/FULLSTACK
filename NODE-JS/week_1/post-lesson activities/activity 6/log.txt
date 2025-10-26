@@ -1,0 +1,5 @@
+Requete recue : /
+Requete recue : /favicon.ico
+Requete recue : /home
+Requete recue : /help
+Requete recue : /hhhh

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "sku": "SKU-ELECTRONICS-001",
+    "name": "Smartphone Galaxy X",
+    "category": "electronics",
+    "price": 699.99,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "sku": "SKU-ELECTRONICS-002",
+    "name": "Laptop Pro 15 pouces",
+    "category": "electronics",
+    "price": 1299.99,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "sku": "SKU-ELECTRONICS-003",
+    "name": "Tablette Android 10 pouces",
+    "category": "electronics",
+    "price": 399.99,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "sku": "SKU-ELECTRONICS-004",
+    "name": "Écouteurs Bluetooth",
+    "category": "electronics",
+    "price": 89.99,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "sku": "SKU-ELECTRONICS-005",
+    "name": "Montre connectée Sport",
+    "category": "electronics",
+    "price": 249.99,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "sku": "SKU-ELECTRONICS-006",
+    "name": "Casque Gaming RGB",
+    "category": "electronics",
+    "price": 129.99,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "sku": "SKU-ELECTRONICS-007",
+    "name": "Clavier mécanique RGB",
+    "category": "electronics",
+    "price": 119.99,
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "sku": "SKU-ELECTRONICS-008",
+    "name": "Souris sans fil ergonomique",
+    "category": "electronics",
+    "price": 49.99,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "sku": "SKU-ELECTRONICS-009",
+    "name": "Webcam HD 1080p",
+    "category": "electronics",
+    "price": 79.99,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "sku": "SKU-ELECTRONICS-010",
+    "name": "Enceinte Bluetooth portable",
+    "category": "electronics",
+    "price": 59.99,
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "sku": "SKU-ELECTRONICS-011",
+    "name": "Câble HDMI 4K 2m",
+    "category": "electronics",
+    "price": 15.99,
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "sku": "SKU-ELECTRONICS-012",
+    "name": "Chargeur USB-C rapide 65W",
+    "category": "electronics",
+    "price": 34.99,
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "sku": "SKU-ELECTRONICS-013",
+    "name": "Disque dur externe 2TB",
+    "category": "electronics",
+    "price": 89.99,
+    "inStock": false
+  },
+  {
+    "id": 14,
+    "sku": "SKU-ELECTRONICS-014",
+    "name": "Clé USB 128GB",
+    "category": "electronics",
+    "price": 24.99,
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "sku": "SKU-ELECTRONICS-015",
+    "name": "Batterie externe 20000mAh",
+    "category": "electronics",
+    "price": 39.99,
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "sku": "SKU-ELECTRONICS-016",
+    "name": "Support téléphone voiture",
+    "category": "electronics",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "sku": "SKU-ELECTRONICS-017",
+    "name": "Adaptateur multiprise USB",
+    "category": "electronics",
+    "price": 29.99,
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "sku": "SKU-ELECTRONICS-018",
+    "name": "Lampe LED bureau USB",
+    "category": "electronics",
+    "price": 22.99,
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "sku": "SKU-ELECTRONICS-019",
+    "name": "Microphone USB podcasting",
+    "category": "electronics",
+    "price": 99.99,
+    "inStock": false
+  },
+  {
+    "id": 20,
+    "sku": "SKU-ELECTRONICS-020",
+    "name": "Hub USB-C 7 ports",
+    "category": "electronics",
+    "price": 44.99,
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "sku": "SKU-FURNITURE-001",
+    "name": "Bureau ergonomique ajustable",
+    "category": "furniture",
+    "price": 349.99,
+    "inStock": true
+  },
+  {
+    "id": 22,
+    "sku": "SKU-FURNITURE-002",
+    "name": "Chaise gaming confortable",
+    "category": "furniture",
+    "price": 279.99,
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "sku": "SKU-FURNITURE-003",
+    "name": "Étagère murale moderne",
+    "category": "furniture",
+    "price": 89.99,
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "sku": "SKU-FURNITURE-004",
+    "name": "Table basse scandinave",
+    "category": "furniture",
+    "price": 159.99,
+    "inStock": false
+  },
+  {
+    "id": 25,
+    "sku": "SKU-FURNITURE-005",
+    "name": "Armoire 3 portes chêne",
+    "category": "furniture",
+    "price": 499.99,
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "sku": "SKU-FURNITURE-006",
+    "name": "Lit queen avec rangements",
+    "category": "furniture",
+    "price": 599.99,
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "sku": "SKU-FURNITURE-007",
+    "name": "Canapé 3 places tissu gris",
+    "category": "furniture",
+    "price": 749.99,
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "sku": "SKU-FURNITURE-008",
+    "name": "Fauteuil relaxation cuir",
+    "category": "furniture",
+    "price": 449.99,
+    "inStock": false
+  },
+  {
+    "id": 29,
+    "sku": "SKU-FURNITURE-009",
+    "name": "Bibliothèque 5 niveaux",
+    "category": "furniture",
+    "price": 199.99,
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "sku": "SKU-FURNITURE-010",
+    "name": "Meuble TV moderne 150cm",
+    "category": "furniture",
+    "price": 299.99,
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "sku": "SKU-FURNITURE-011",
+    "name": "Commode 6 tiroirs blanc",
+    "category": "furniture",
+    "price": 249.99,
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "sku": "SKU-FURNITURE-012",
+    "name": "Tabouret de bar métal",
+    "category": "furniture",
+    "price": 79.99,
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "sku": "SKU-FURNITURE-013",
+    "name": "Bureau d'angle compact",
+    "category": "furniture",
+    "price": 399.99,
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "sku": "SKU-FURNITURE-014",
+    "name": "Chaise de bureau ergonomique",
+    "category": "furniture",
+    "price": 189.99,
+    "inStock": false
+  },
+  {
+    "id": 35,
+    "sku": "SKU-FURNITURE-015",
+    "name": "Table à manger extensible",
+    "category": "furniture",
+    "price": 549.99,
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "sku": "SKU-FURNITURE-016",
+    "name": "Buffet moderne 4 portes",
+    "category": "furniture",
+    "price": 429.99,
+    "inStock": true
+  },
+  {
+    "id": 37,
+    "sku": "SKU-FURNITURE-017",
+    "name": "Miroir sur pied pleine hauteur",
+    "category": "furniture",
+    "price": 129.99,
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "sku": "SKU-FURNITURE-018",
+    "name": "Porte-manteau design métal",
+    "category": "furniture",
+    "price": 59.99,
+    "inStock": true
+  },
+  {
+    "id": 39,
+    "sku": "SKU-FURNITURE-019",
+    "name": "Banc d'entrée avec rangement",
+    "category": "furniture",
+    "price": 139.99,
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "sku": "SKU-FURNITURE-020",
+    "name": "Console murale suspendue",
+    "category": "furniture",
+    "price": 99.99,
+    "inStock": false
+  },
+  {
+    "id": 41,
+    "sku": "SKU-TOOLS-001",
+    "name": "Perceuse sans fil 18V",
+    "category": "tools",
+    "price": 129.99,
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "sku": "SKU-TOOLS-002",
+    "name": "Marteau forgé professionnel",
+    "category": "tools",
+    "price": 24.99,
+    "inStock": true
+  },
+  {
+    "id": 43,
+    "sku": "SKU-TOOLS-003",
+    "name": "Tournevis électrique 12V",
+    "category": "tools",
+    "price": 79.99,
+    "inStock": true
+  },
+  {
+    "id": 44,
+    "sku": "SKU-TOOLS-004",
+    "name": "Scie circulaire 1200W",
+    "category": "tools",
+    "price": 189.99,
+    "inStock": false
+  },
+  {
+    "id": 45,
+    "sku": "SKU-TOOLS-005",
+    "name": "Ponceuse orbitale 300W",
+    "category": "tools",
+    "price": 89.99,
+    "inStock": true
+  },
+  {
+    "id": 46,
+    "sku": "SKU-TOOLS-006",
+    "name": "Niveau laser rotatif",
+    "category": "tools",
+    "price": 149.99,
+    "inStock": true
+  },
+  {
+    "id": 47,
+    "sku": "SKU-TOOLS-007",
+    "name": "Clé à choc pneumatique",
+    "category": "tools",
+    "price": 199.99,
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "sku": "SKU-TOOLS-008",
+    "name": "Set de tournevis 20 pièces",
+    "category": "tools",
+    "price": 34.99,
+    "inStock": true
+  },
+  {
+    "id": 49,
+    "sku": "SKU-TOOLS-009",
+    "name": "Pince multiprise réglable",
+    "category": "tools",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 50,
+    "sku": "SKU-TOOLS-010",
+    "name": "Mètre ruban laser 40m",
+    "category": "tools",
+    "price": 69.99,
+    "inStock": false
+  },
+  {
+    "id": 51,
+    "sku": "SKU-TOOLS-011",
+    "name": "Meuleuse d'angle 900W",
+    "category": "tools",
+    "price": 109.99,
+    "inStock": true
+  },
+  {
+    "id": 52,
+    "sku": "SKU-TOOLS-012",
+    "name": "Serre-joints 50cm lot de 4",
+    "category": "tools",
+    "price": 39.99,
+    "inStock": true
+  },
+  {
+    "id": 53,
+    "sku": "SKU-TOOLS-013",
+    "name": "Boîte à outils complète",
+    "category": "tools",
+    "price": 159.99,
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "sku": "SKU-TOOLS-014",
+    "name": "Scie sauteuse 800W",
+    "category": "tools",
+    "price": 99.99,
+    "inStock": true
+  },
+  {
+    "id": 55,
+    "sku": "SKU-TOOLS-015",
+    "name": "Pistolet à colle chaude",
+    "category": "tools",
+    "price": 24.99,
+    "inStock": true
+  },
+  {
+    "id": 56,
+    "sku": "SKU-TOOLS-016",
+    "name": "Établi pliable métal",
+    "category": "tools",
+    "price": 179.99,
+    "inStock": false
+  },
+  {
+    "id": 57,
+    "sku": "SKU-TOOLS-017",
+    "name": "Aspirateur d'atelier 30L",
+    "category": "tools",
+    "price": 139.99,
+    "inStock": true
+  },
+  {
+    "id": 58,
+    "sku": "SKU-TOOLS-018",
+    "name": "Compresseur d'air 50L",
+    "category": "tools",
+    "price": 299.99,
+    "inStock": true
+  },
+  {
+    "id": 59,
+    "sku": "SKU-TOOLS-019",
+    "name": "Lampe d'atelier LED",
+    "category": "tools",
+    "price": 44.99,
+    "inStock": true
+  },
+  {
+    "id": 60,
+    "sku": "SKU-TOOLS-020",
+    "name": "Échelle télescopique 3.8m",
+    "category": "tools",
+    "price": 189.99,
+    "inStock": true
+  },
+  {
+    "id": 61,
+    "sku": "SKU-CLOTHING-001",
+    "name": "T-shirt coton bio blanc",
+    "category": "clothing",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 62,
+    "sku": "SKU-CLOTHING-002",
+    "name": "Jean slim fit bleu",
+    "category": "clothing",
+    "price": 59.99,
+    "inStock": true
+  },
+  {
+    "id": 63,
+    "sku": "SKU-CLOTHING-003",
+    "name": "Veste en cuir noir",
+    "category": "clothing",
+    "price": 199.99,
+    "inStock": false
+  },
+  {
+    "id": 64,
+    "sku": "SKU-CLOTHING-004",
+    "name": "Robe d'été fleurie",
+    "category": "clothing",
+    "price": 49.99,
+    "inStock": true
+  },
+  {
+    "id": 65,
+    "sku": "SKU-CLOTHING-005",
+    "name": "Chemise blanche classique",
+    "category": "clothing",
+    "price": 39.99,
+    "inStock": true
+  },
+  {
+    "id": 66,
+    "sku": "SKU-CLOTHING-006",
+    "name": "Pull en laine col roulé",
+    "category": "clothing",
+    "price": 69.99,
+    "inStock": true
+  },
+  {
+    "id": 67,
+    "sku": "SKU-CLOTHING-007",
+    "name": "Pantalon chino beige",
+    "category": "clothing",
+    "price": 54.99,
+    "inStock": true
+  },
+  {
+    "id": 68,
+    "sku": "SKU-CLOTHING-008",
+    "name": "Sweat à capuche gris",
+    "category": "clothing",
+    "price": 44.99,
+    "inStock": false
+  },
+  {
+    "id": 69,
+    "sku": "SKU-CLOTHING-009",
+    "name": "Manteau d'hiver long",
+    "category": "clothing",
+    "price": 159.99,
+    "inStock": true
+  },
+  {
+    "id": 70,
+    "sku": "SKU-CLOTHING-010",
+    "name": "Short sport polyester",
+    "category": "clothing",
+    "price": 24.99,
+    "inStock": true
+  },
+  {
+    "id": 71,
+    "sku": "SKU-CLOTHING-011",
+    "name": "Chaussettes sport lot de 5",
+    "category": "clothing",
+    "price": 14.99,
+    "inStock": true
+  },
+  {
+    "id": 72,
+    "sku": "SKU-CLOTHING-012",
+    "name": "Ceinture cuir marron",
+    "category": "clothing",
+    "price": 29.99,
+    "inStock": true
+  },
+  {
+    "id": 73,
+    "sku": "SKU-CLOTHING-013",
+    "name": "Écharpe laine cachemire",
+    "category": "clothing",
+    "price": 39.99,
+    "inStock": true
+  },
+  {
+    "id": 74,
+    "sku": "SKU-CLOTHING-014",
+    "name": "Bonnet tricoté hiver",
+    "category": "clothing",
+    "price": 19.99,
+    "inStock": false
+  },
+  {
+    "id": 75,
+    "sku": "SKU-CLOTHING-015",
+    "name": "Gants cuir tactiles",
+    "category": "clothing",
+    "price": 34.99,
+    "inStock": true
+  },
+  {
+    "id": 76,
+    "sku": "SKU-CLOTHING-016",
+    "name": "Costume 2 pièces noir",
+    "category": "clothing",
+    "price": 249.99,
+    "inStock": true
+  },
+  {
+    "id": 77,
+    "sku": "SKU-CLOTHING-017",
+    "name": "Cravate soie bleu marine",
+    "category": "clothing",
+    "price": 29.99,
+    "inStock": true
+  },
+  {
+    "id": 78,
+    "sku": "SKU-CLOTHING-018",
+    "name": "Pyjama coton confortable",
+    "category": "clothing",
+    "price": 34.99,
+    "inStock": true
+  },
+  {
+    "id": 79,
+    "sku": "SKU-CLOTHING-019",
+    "name": "Maillot de bain homme",
+    "category": "clothing",
+    "price": 29.99,
+    "inStock": true
+  },
+  {
+    "id": 80,
+    "sku": "SKU-CLOTHING-020",
+    "name": "Baskets running légères",
+    "category": "clothing",
+    "price": 89.99,
+    "inStock": false
+  },
+  {
+    "id": 81,
+    "sku": "SKU-BOOKS-001",
+    "name": "Roman fantastique épique",
+    "category": "books",
+    "price": 24.99,
+    "inStock": true
+  },
+  {
+    "id": 82,
+    "sku": "SKU-BOOKS-002",
+    "name": "Guide de programmation Python",
+    "category": "books",
+    "price": 49.99,
+    "inStock": true
+  },
+  {
+    "id": 83,
+    "sku": "SKU-BOOKS-003",
+    "name": "Livre de cuisine française",
+    "category": "books",
+    "price": 34.99,
+    "inStock": true
+  },
+  {
+    "id": 84,
+    "sku": "SKU-BOOKS-004",
+    "name": "Biographie historique illustrée",
+    "category": "books",
+    "price": 29.99,
+    "inStock": false
+  },
+  {
+    "id": 85,
+    "sku": "SKU-BOOKS-005",
+    "name": "Atlas du monde moderne",
+    "category": "books",
+    "price": 39.99,
+    "inStock": true
+  },
+  {
+    "id": 86,
+    "sku": "SKU-BOOKS-006",
+    "name": "Dictionnaire français complet",
+    "category": "books",
+    "price": 44.99,
+    "inStock": true
+  },
+  {
+    "id": 87,
+    "sku": "SKU-BOOKS-007",
+    "name": "Encyclopédie scientifique",
+    "category": "books",
+    "price": 89.99,
+    "inStock": true
+  },
+  {
+    "id": 88,
+    "sku": "SKU-BOOKS-008",
+    "name": "Bande dessinée aventure",
+    "category": "books",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 89,
+    "sku": "SKU-BOOKS-009",
+    "name": "Manga japonais volume 1",
+    "category": "books",
+    "price": 12.99,
+    "inStock": true
+  },
+  {
+    "id": 90,
+    "sku": "SKU-BOOKS-010",
+    "name": "Livre de photographie artistique",
+    "category": "books",
+    "price": 59.99,
+    "inStock": false
+  },
+  {
+    "id": 91,
+    "sku": "SKU-BOOKS-011",
+    "name": "Poésie classique française",
+    "category": "books",
+    "price": 22.99,
+    "inStock": true
+  },
+  {
+    "id": 92,
+    "sku": "SKU-BOOKS-012",
+    "name": "Thriller psychologique",
+    "category": "books",
+    "price": 26.99,
+    "inStock": true
+  },
+  {
+    "id": 93,
+    "sku": "SKU-BOOKS-013",
+    "name": "Guide de jardinage écologique",
+    "category": "books",
+    "price": 32.99,
+    "inStock": true
+  },
+  {
+    "id": 94,
+    "sku": "SKU-BOOKS-014",
+    "name": "Manuel de philosophie",
+    "category": "books",
+    "price": 37.99,
+    "inStock": true
+  },
+  {
+    "id": 95,
+    "sku": "SKU-BOOKS-015",
+    "name": "Science-fiction dystopie",
+    "category": "books",
+    "price": 28.99,
+    "inStock": true
+  },
+  {
+    "id": 96,
+    "sku": "SKU-BOOKS-016",
+    "name": "Livre de développement personnel",
+    "category": "books",
+    "price": 24.99,
+    "inStock": false
+  },
+  {
+    "id": 97,
+    "sku": "SKU-BOOKS-017",
+    "name": "Histoire de l'art moderne",
+    "category": "books",
+    "price": 54.99,
+    "inStock": true
+  },
+  {
+    "id": 98,
+    "sku": "SKU-BOOKS-018",
+    "name": "Carnets de voyage illustrés",
+    "category": "books",
+    "price": 29.99,
+    "inStock": true
+  },
+  {
+    "id": 99,
+    "sku": "SKU-BOOKS-019",
+    "name": "Livre d'apprentissage enfants",
+    "category": "books",
+    "price": 16.99,
+    "inStock": true
+  },
+  {
+    "id": 100,
+    "sku": "SKU-BOOKS-020",
+    "name": "Essai économique contemporain",
+    "category": "books",
+    "price": 42.99,
+    "inStock": true
+  }
+]

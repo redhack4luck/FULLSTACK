@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "orderNumber": "ORD-2025-0001",
+    "customer": "Alice Martin",
+    "items": [
+      {
+        "sku": "SKU-ELECTRONICS-001",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-ELECTRONICS-004",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-ELECTRONICS-012",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 824.97,
+    "status": "paid",
+    "orderDate": "2025-01-15"
+  },
+
+  {
+    "id": 2,
+    "orderNumber": "ORD-2025-0002",
+    "customer": "Bruno Lefevre",
+    "items": [
+      {
+        "sku": "SKU-ELECTRONICS-002",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-ELECTRONICS-020",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1344.98,
+    "status": "shipped",
+    "orderDate": "2025-01-16"
+  },
+
+  {
+    "id": 3,
+    "orderNumber": "ORD-2025-0003",
+    "customer": "Clara Dubois",
+    "items": [
+      {
+        "sku": "SKU-FURNITURE-001",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-FURNITURE-002",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-ELECTRONICS-009",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 709.97,
+    "status": "pending",
+    "orderDate": "2025-01-17"
+  },
+
+  {
+    "id": 4,
+    "orderNumber": "ORD-2025-0004",
+    "customer": "David Moreau",
+    "items": [
+      {
+        "sku": "SKU-CLOTHING-002",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-CLOTHING-005",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU-CLOTHING-012",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 179.96,
+    "status": "delivered",
+    "orderDate": "2025-01-18"
+  },
+
+  {
+    "id": 5,
+    "orderNumber": "ORD-2025-0005",
+    "customer": "Elena Petit",
+    "items": [
+      {
+        "sku": "SKU-TOOLS-001",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-TOOLS-008",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-TOOLS-012",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 204.97,
+    "status": "cancelled",
+    "orderDate": "2025-01-19"
+  },
+
+  {
+    "id": 6,
+    "orderNumber": "ORD-2025-0006",
+    "customer": "François Garnier",
+    "items": [
+      {
+        "sku": "SKU-BOOKS-002",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-BOOKS-007",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-BOOKS-013",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 172.97,
+    "status": "paid",
+    "orderDate": "2025-01-20"
+  },
+
+  {
+    "id": 7,
+    "orderNumber": "ORD-2025-0007",
+    "customer": "Gabrielle Rousseau",
+    "items": [
+      {
+        "sku": "SKU-ELECTRONICS-005",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-ELECTRONICS-006",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-ELECTRONICS-010",
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 529.96,
+    "status": "shipped",
+    "orderDate": "2025-01-21"
+  },
+
+  {
+    "id": 8,
+    "orderNumber": "ORD-2025-0008",
+    "customer": "Hugo Blanc",
+    "items": [
+      {
+        "sku": "SKU-FURNITURE-027",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-FURNITURE-035",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1299.98,
+    "status": "pending",
+    "orderDate": "2025-01-22"
+  },
+
+  {
+    "id": 9,
+    "orderNumber": "ORD-2025-0009",
+    "customer": "Isabelle Morel",
+    "items": [
+      {
+        "sku": "SKU-CLOTHING-063",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-CLOTHING-069",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-CLOTHING-073",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 299.97,
+    "status": "delivered",
+    "orderDate": "2025-01-23"
+  },
+  
+  {
+    "id": 10,
+    "orderNumber": "ORD-2025-0010",
+    "customer": "Julien Petit",
+    "items": [
+      {
+        "sku": "SKU-TOOLS-041",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-TOOLS-046",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU-TOOLS-051",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 389.97,
+    "status": "paid",
+    "orderDate": "2025-01-24"
+  }
+]
