@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fetch ’Em - Mini Pokédex</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>⚡ Fetch ’Em</h1>
+      <p>A mini Pokédex with async magic</p>
+    </header>
+
+    <!-- Search Controls -->
+    <section class="controls">
+      <input type="text" id="q" placeholder="Enter Pokémon name or ID">
+      <button id="searchBtn">Search</button>
+      <button id="randomBtn">Surprise Me</button>
+      <button id="cancelBtn" class="cancel">Cancel</button>
+    </section>
+
+    <!-- Status -->
+    <div id="status">Ready</div>
+
+    <!-- Result Card -->
+    <section id="card" class="card hidden">
+      <div class="sprite">
+        <img src="" alt="Pokémon sprite" id="pokemonSprite">
+      </div>
+      <div class="info">
+        <h2 id="pokemonName">Name</h2>
+        <p><strong>ID:</strong> <span id="pokemonId"></span></p>
+        <p><strong>Types:</strong> <span id="pokemonTypes"></span></p>
+        <p><strong>Stats:</strong></p>
+        <ul id="pokemonStats"></ul>
+      </div>
+    </section>
+
+    <!-- History -->
+    <section class="history">
+      <h3>Recent Searches</h3>
+      <ul id="history"></ul>
+    </section>
+  </div>
+</body>
+</html>
