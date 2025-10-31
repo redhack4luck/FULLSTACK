@@ -1,0 +1,33 @@
+Activité 1 — Discussion :
+
+    Différence avec Node.js natif : Express simplifie la création de routes et la gestion des requêtes/réponses.
+
+    Gestion automatique par Express : Il gère le routage, les en-têtes et le formatage des réponses.
+
+Activité 2 — Discussion :
+
+    Avantage du JSON : Format léger et universel pour les APIs.
+
+    Route par ressource : Permet d'accéder directement à un élément spécifique.
+
+Activité 3 — Discussion :
+
+    Rôle de next() : Passe la requête au middleware suivant.
+
+    Middleware global vs spécifique : Global pour toutes les routes, spécifique pour certaines.
+
+    Importance des middlewares : Ils modularisent la logique de traitement.
+
+Activité 4 — Discussion :
+
+    Middleware d'erreur en dernier : Pour attraper toutes les erreurs précédentes.
+
+    throw vs next(err) : next(err) transfère l'erreur au middleware dédié.
+
+Activité 5 — Discussion :
+
+    Fichier statique vs JSON : Statique = servi directement, JSON = lu et transformé.
+
+    readFileSync en production : Bloquant, préférer readFile asynchrone.
+
+    Avec fs.promises : Utiliser readFile asynchrone avec await pour meilleures performances.
