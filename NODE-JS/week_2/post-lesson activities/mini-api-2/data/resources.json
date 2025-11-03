@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "High-performance laptop for development",
+    "category": "electronics",
+    "price": 999
+  },
+  {
+    "id": 2,
+    "name": "Programming Book",
+    "description": "Learn Node.js and Express",
+    "category": "books",
+    "price": 35
+  },
+  {
+    "id": 3,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse",
+    "category": "electronics",
+    "price": 25
+  },
+  {
+    "id": 4,
+    "name": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness",
+    "category": "home",
+    "price": 45
+  },
+  {
+    "id": 5,
+    "name": "Coffee Mug",
+    "description": "Large ceramic coffee mug",
+    "category": "home",
+    "price": 12
+  }
+]
