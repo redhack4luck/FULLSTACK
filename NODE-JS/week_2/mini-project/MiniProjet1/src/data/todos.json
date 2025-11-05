@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "title": "Learn Express",
+    "completed": true,
+    "priority": "medium",
+    "dueDate": "2025-11-06",
+    "createdAt": "2025-11-03T10:06:22.846Z",
+    "updatedAt": "2025-11-03T10:43:14.445Z"
+  },
+  {
+    "id": 3,
+    "title": "Learn Docker",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2025-11-06",
+    "createdAt": "2025-11-03T10:16:53.371Z",
+    "updatedAt": ""
+  },
+  {
+    "id": 4,
+    "title": "Learn Bootstrap",
+    "completed": true,
+    "priority": "medium",
+    "dueDate": "2025-12-28",
+    "createdAt": "2025-11-03T10:17:38.779Z",
+    "updatedAt": "2025-11-03T10:59:00.599Z"
+  },
+  {
+    "id": 5,
+    "title": "Learn JAVA",
+    "completed": false,
+    "priority": "medium",
+    "dueDate": "2026-12-28",
+    "createdAt": "2025-11-03T11:12:25.575Z",
+    "updatedAt": ""
+  }
+]
