@@ -1,0 +1,39 @@
+Activité 1 — “Deviens l’architecte”
+
+1. Qu’apportes-tu en termes de clarté et de maintenabilité ?
+Une structure claire sépare les responsabilités, rendant le code plus lisible et facile à faire évoluer.
+
+2. Quels fichiers changeraient le plus souvent si l’API évolue ?
+Les fichiers de routes et de contrôleurs, car ils gèrent la logique métier et les endpoints.
+
+Activité 2 — “REST in Action”
+
+1. Qu’est-ce qu’un endpoint REST bien conçu ?
+C’est un endpoint clair, cohérent, utilisant les bons verbes HTTP et renvoyant des statuts précis.
+
+2. Pourquoi l’idempotence est-elle importante dans une API ?
+Elle garantit que répéter une requête donne toujours le même résultat, sans effets secondaires.
+
+Activité 3 — “Middlewares intelligents”
+
+1. Quelle est la différence entre un middleware global et local ?
+Le global s’applique à toutes les routes, le local seulement à certaines.
+
+2. Pourquoi la réutilisabilité est-elle une force des middlewares ?
+Parce qu’on peut les combiner et les réutiliser facilement dans plusieurs projets ou routes.
+
+Activité 4 — “Gestionnaire d’erreurs pro”
+
+1. Pourquoi séparer la logique d’erreur du code métier ?
+Pour garder le code principal propre et centraliser la gestion des erreurs.
+
+2. Qu’apporte la cohérence des messages d’erreur côté client ?
+Elle facilite le débogage et améliore l’expérience du développeur client.
+
+Activité 5 — “Data Explorer”
+
+1. Comment éviter le blocage du thread lors de la lecture de fichier ?
+En utilisant les fonctions asynchrones comme fs.promises.readFile.
+
+2. Quelle est la différence entre readFileSync et fs.promises.readFile ?
+readFileSync bloque le thread, alors que fs.promises.readFile exécute la lecture en arrière-plan.

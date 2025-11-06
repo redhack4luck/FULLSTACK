@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Hammer",
+    "category": "tools",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "Screwdriver",
+    "category": "tools",
+    "price": 10
+  },
+  {
+    "id": 3,
+    "name": "Notebook",
+    "category": "stationery",
+    "price": 5
+  },
+  {
+    "id": 4,
+    "name": "Drill",
+    "category": "tools",
+    "price": 80
+  },
+  {
+    "id": 5,
+    "name": "Pen",
+    "category": "stationery",
+    "price": 2
+  }
+]
