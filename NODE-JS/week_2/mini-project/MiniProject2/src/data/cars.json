@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "category": "sedan",
+    "plate": "ABC-123",
+    "pricePerDay": 45,
+    "available": true,
+    "createdAt": "2025-10-27T10:00:00.000Z",
+    "updatedAt": "2025-11-04T22:46:18.749Z"
+  },
+  {
+    "id": "2",
+    "brand": "Honda",
+    "model": "Civic",
+    "category": "sedan",
+    "plate": "DEF-456",
+    "pricePerDay": 42.5,
+    "available": false,
+    "createdAt": "2025-10-27T10:05:00.000Z",
+    "updatedAt": "2025-11-07T14:08:24.643Z"
+  },
+  {
+    "id": "3",
+    "brand": "Ford",
+    "model": "Explorer",
+    "category": "suv",
+    "plate": "GHI-789",
+    "pricePerDay": 65,
+    "available": false,
+    "createdAt": "2025-10-27T10:10:00.000Z",
+    "updatedAt": "2025-11-07T14:47:05.196Z"
+  },
+  {
+    "id": "4",
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "category": "eco",
+    "plate": "JKL-012",
+    "pricePerDay": 35,
+    "available": false,
+    "createdAt": "2025-10-27T10:15:00.000Z",
+    "updatedAt": "2025-10-27T10:15:00.000Z"
+  }
+]

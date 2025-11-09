@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "carId": "1",
+    "customer": {
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    "from": "2025-11-01",
+    "to": "2025-11-05",
+    "days": 4,
+    "dailyRate": 45,
+    "total": 180,
+    "status": "canceled",
+    "createdAt": "2025-11-04T22:46:18.749Z",
+    "updatedAt": "2025-11-04T22:46:18.749Z"
+  },
+  {
+    "id": "2",
+    "carId": "2",
+    "customer": {
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    "from": "2025-11-05",
+    "to": "2025-11-07",
+    "days": 2,
+    "dailyRate": 42.5,
+    "total": 85,
+    "status": "active",
+    "createdAt": "2025-11-07T14:08:24.643Z",
+    "updatedAt": "2025-11-07T14:08:24.643Z"
+  },
+  {
+    "id": "3",
+    "carId": "3",
+    "customer": {
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    "from": "2025-11-05",
+    "to": "2025-11-07",
+    "days": 2,
+    "dailyRate": 65,
+    "total": 130,
+    "status": "active",
+    "createdAt": "2025-11-07T14:47:05.196Z",
+    "updatedAt": "2025-11-07T14:47:05.196Z"
+  }
+]
