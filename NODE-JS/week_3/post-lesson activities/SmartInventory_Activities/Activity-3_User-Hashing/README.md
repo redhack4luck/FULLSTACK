@@ -1,0 +1,1 @@
+# Activity 3 - User model and hashing\n\nRegister and login endpoints.\n// HNA: passwords hashed with bcryptjs

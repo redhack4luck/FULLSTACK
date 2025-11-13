@@ -1,0 +1,1 @@
+# Activity 1 - MongoDB Connection\n\nStart the server after DB connection.\n\n// HNA KNDEMAREW SERVER DIALNA

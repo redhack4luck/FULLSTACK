@@ -1,0 +1,1 @@
+# Activity 2 - Models and CRUD\n\nProduct and Order models with basic CRUD.\n// HNA: tests: POST /api/products, GET /api/products

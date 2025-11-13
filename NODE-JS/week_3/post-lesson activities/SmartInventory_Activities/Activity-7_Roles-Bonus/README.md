@@ -1,0 +1,1 @@
+# Activity 7 - Roles and Dashboard\n\nAdded manager role and /api/dashboard accessible by admin and manager.

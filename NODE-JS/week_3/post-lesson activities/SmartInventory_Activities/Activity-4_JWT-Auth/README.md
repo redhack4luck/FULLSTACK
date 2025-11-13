@@ -1,0 +1,1 @@
+# Activity 4 - JWT Authentication and authorization\n\nLogin returns token. Protect product creation to admin.
