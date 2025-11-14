@@ -1,0 +1,1 @@
+const jwt=require('jsonwebtoken');module.exports=(req,res,next)=>{const a=req.header('Authorization');if(!a||!a.startsWith('Bearer '))return res.status(401).json({message:'No token'});const t=a.split(' ')[1];try{const p=jwt.verify(t,process.env.JWT_SECRET||'secret');req.user={id:p.id,role:p.role};next();}catch(e){res.status(401).json({message:'Invalid token'});}};
