@@ -15,6 +15,7 @@ const errorHandler = require('./middlewares/errorHandler');
 const app = express();
 
 // Middlewares globaux
+app.use(express.urlencoded);
 app.use(helmet());
 app.use(cors());
 app.use(express.json());
